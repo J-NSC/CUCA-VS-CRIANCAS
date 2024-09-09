@@ -1,2 +1,1 @@
-# CUCA-VS-CRIAN-AS
-UM JOGO ABORDANDO A LUTA CONSTANTE DA HEROINA BRASILEIRA CUCA, CONTRA AS PERVEÇAS CRIANÇAS
+Um jogo que aborda a luta constante da heroína brasileira Cuca contra suas piores inimigas: as crianças. Elas foram responsáveis por destruir seu habitat natural, o Pantanal, devastando a fauna e a flora com suas brincadeiras malignas, poluindo os rios com seus banhos demorados e cometendo outros atos de crueldade contra a natureza.
