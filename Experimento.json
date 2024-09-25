@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 210,
+    "build": 213,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -1170,6 +1170,15 @@
         "name": "NewSprite38",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite39",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1205,7 +1214,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -1213,8 +1222,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.4280418613827377,
+        "snap": false,
+        "zoomFactor": 0.5769175655614942,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1606,6 +1615,118 @@
           "x": -64,
           "y": -32,
           "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fruta1",
+          "persistentUuid": "18a59ea8-ee79-4027-a35f-5fbe5f3411f7",
+          "width": 0,
+          "x": 834,
+          "y": 411,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fruta1",
+          "persistentUuid": "d17e1481-a485-4368-bcd0-bae6e7132ff4",
+          "width": 0,
+          "x": 1130,
+          "y": 381,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fruta1",
+          "persistentUuid": "fbda0439-c6ac-4a84-b0e8-772c2735d786",
+          "width": 0,
+          "x": 1442,
+          "y": 383,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fruta1",
+          "persistentUuid": "188dc6a7-a10e-4809-9ebd-be2c96a63154",
+          "width": 0,
+          "x": 1649,
+          "y": 375,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fruta1",
+          "persistentUuid": "5c2e6c2b-eb50-4f47-bb83-8917a8a8c64b",
+          "width": 0,
+          "x": 435,
+          "y": 483,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fruta1",
+          "persistentUuid": "3c7c0d0c-69ef-4b44-94a5-886a8537660a",
+          "width": 0,
+          "x": 184,
+          "y": 590,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fruta1",
+          "persistentUuid": "9b4368f5-425b-47bb-8373-e8f4e13292dd",
+          "width": 0,
+          "x": 32,
+          "y": 553,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5025,6 +5146,67 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Fruta1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite39",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -5060,6 +5242,9 @@
           },
           {
             "objectName": "Player"
+          },
+          {
+            "objectName": "Fruta1"
           },
           {
             "objectName": "NewText"
@@ -5722,7 +5907,7 @@
           "isLocked": false,
           "name": "Fade",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
@@ -5818,7 +6003,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.6045561845180422,
+        "zoomFactor": 0.38000898221214696,
         "windowMask": false
       },
       "objectsGroups": [],
